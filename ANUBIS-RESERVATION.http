@@ -1,0 +1,6 @@
+@ANUBIS_RESERVATION_HostAddress = http://localhost:5211
+
+GET {{ANUBIS_RESERVATION_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
